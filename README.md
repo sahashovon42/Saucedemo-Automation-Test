@@ -20,7 +20,7 @@ npm install allure-mocha --save-dev
 
 ### To Clone the repository
 ```bash
-git clone https://github.com/sahashovon42/SQA-JavaScript.git
+git clone https://github.com/sahashovon42/Saucedemo-Automation-Test.git
 ```
 ```bash
 
