@@ -1,0 +1,21 @@
+{
+  "name": "saucedemo_automation_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shovon",
+  "license": "ISC",
+  "devDependencies": {
+    "allure-commandline": "^2.34.1",
+    "allure-mocha": "^3.4.1",
+    "chai": "^6.0.1",
+    "mocha": "^11.7.2",
+    "mocha-allure-reporter": "^1.4.0",
+    "selenium-webdriver": "^4.35.0"
+  }
+}
