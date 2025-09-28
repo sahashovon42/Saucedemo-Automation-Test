@@ -1,9 +1,15 @@
-## SAUCEDEMO AAUTOMATION TEST
+## SAUCEDEMO  AUTOMATION  TEST
+#### OSTAD Assignment
+## Using  JavaScript  +  Selenium  WebDriverJS  +  Allure.
 
-## Using JavaScript + Selenium WebDriverJS + Allure.
+### NB1: For Chrome Browser- "Sign in pop-up option" should be turn off.
+### NB2: For Safari Browser- Turn on "Allow remote automation" from 'developer' option.
 
-### NB: 1.For Chrome Browser- Sign in pop-up option should be turn off.
-### NB: 2.For Safari Browser- "Allow remote automation" from developer option in Safari
+
+### For Q1 = "locked_out_user_q1.js"
+### For Q2 = "standard_user_q2.js"
+### For Q3 = "performance_glitch_user_q3.js"
+
 
 ### Used Selenium WebDriver for JS. To init =>
 ```bash
@@ -22,6 +28,11 @@ npm install allure-mocha --save-dev
 ```bash
 git clone https://github.com/sahashovon42/Saucedemo-Automation-Test.git
 ```
-```bash
 
-```
+#### I will commit "Fianl", when it will fully done.
+
+## If you have any question fill free to knock me
+[LinkedIn](www.linkedin.com/in/sahashovon)
+
+
+## Thank You.
